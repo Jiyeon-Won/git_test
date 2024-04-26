@@ -7,5 +7,6 @@ public class Main {
         System.out.println("다섯 번째 커밋");
         System.out.println("여섯 번째 커밋");
         System.out.println("일곱 번째 커밋");
+        System.out.println("새로운 커밋2");
     }
 }
