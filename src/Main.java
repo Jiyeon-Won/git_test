@@ -8,5 +8,6 @@ public class Main {
         System.out.println("여섯 번째 커밋");
         System.out.println("일곱 번째 커밋");
         System.out.println("새로운 커밋2");
+        System.out.println("이슈 삭제 확인");
     }
 }
