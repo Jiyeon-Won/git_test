@@ -6,5 +6,7 @@ public class Main {
         System.out.println("기능 B 이슈");
         System.out.println("기능 C 이슈");
         System.out.println("기능 D 이슈");
+        System.out.println("기능 1 이슈");
+        System.out.println("기능 2 이슈");
     }
 }
