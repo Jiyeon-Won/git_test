@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println("기능 A");
         System.out.println("기능 B");
+        System.out.println("기능 C");
     }
 }
