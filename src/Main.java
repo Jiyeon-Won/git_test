@@ -10,5 +10,10 @@ public class Main {
         System.out.println("기능 2 이슈");
         System.out.println("#28");
         System.out.println("#29");
+
+
+        System.out.println("기능 A");
+        System.out.println("기능 B");
+        System.out.println("기능 C");
     }
 }
