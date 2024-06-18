@@ -4,5 +4,6 @@ public class Main {
         System.out.println("create");
         System.out.println("update");
         System.out.println("read");
+        System.out.println("delete");
     }
 }
