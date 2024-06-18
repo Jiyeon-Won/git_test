@@ -3,5 +3,6 @@ public class Main {
         System.out.println("PR 첫번째");
         System.out.println("create");
         System.out.println("update");
+        System.out.println("read");
     }
 }
