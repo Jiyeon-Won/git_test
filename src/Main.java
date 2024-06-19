@@ -9,5 +9,6 @@ public class Main {
         System.out.println("그냥 Read");
         System.out.println("그냥 Update");
         System.out.println("그냥 Delete");
+        System.out.println("새로 다시 했음");
     }
 }
