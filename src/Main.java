@@ -8,5 +8,6 @@ public class Main {
         System.out.println("그냥 create");
         System.out.println("그냥 Read");
         System.out.println("그냥 Update");
+        System.out.println("그냥 Delete");
     }
 }
